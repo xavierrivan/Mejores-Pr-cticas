@@ -192,7 +192,7 @@ La implementación actual está preparada para el siguiente sprint de la siguien
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/xavierrivan/Mejores-Pr-cticas.git
 ```
 
 2. Navegar al directorio del proyecto:
@@ -262,9 +262,8 @@ La solución es robusta, mantenible y preparada para futuras expansiones, cumpli
 
 ## Autor
 
-[Tu Nombre] - Ingeniero de Software Junior
-Codificando Con Patrones Cía. Ltda.
+Xavier Ivan Gordillo Boya
 
 ## Fecha de Entrega
 
-[Fecha de entrega del taller] 
+Enero 2025
